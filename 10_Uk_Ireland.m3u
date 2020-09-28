@@ -1,27 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="************ IRLAND ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ IRLAND ************
-https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
-#EXTINF:-1 tvg-name="RTÉ News Now" tvg-id="RTENewsNow.ie" group-title="IRLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÉ News Now
-https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
-#EXTINF:-1 tvg-name="Oireachtas TV" tvg-id="" group-title="IRLAND" tvg-logo="",Oireachtas TV
-https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/chunklist_b1228000.m3u8
-#EXTINF:-1 tvg-name="Dáil Éireann" tvg-id="" group-title="IRLAND" tvg-logo="",Dáil Éireann
-https://oirlive.heanet.ie/dail/ngrp:dail.stream_all/chunklist_b478000.m3u8
-#EXTINF:-1 tvg-name="Seanad Éireann" tvg-id="" group-title="IRLAND" tvg-logo="",Seanad Éireann
-https://oirlive.heanet.ie/seanad/ngrp:seanad.stream_all/chunklist_b1228000.m3u8
-#EXTINF:-1 tvg-name="Committee Room 1" tvg-id="" group-title="IRLAND" tvg-logo="",Committee Room 1
-https://oirlive.heanet.ie/cr1/ngrp:cr1.stream_all/chunklist_b1228000.m3u8
-#EXTINF:-1 tvg-name="Committee Room 2" tvg-id="" group-title="IRLAND" tvg-logo="",Committee Room 2
-https://oirlive.heanet.ie/cr2/ngrp:cr2.stream_all/chunklist_b1228000.m3u8
-#EXTINF:-1 tvg-name="Committee Room 3" tvg-id="" group-title="IRLAND" tvg-logo="",Committee Room 3
-https://oirlive.heanet.ie/cr3/ngrp:cr3.stream_all/chunklist_b1228000.m3u8
-#EXTINF:-1 tvg-name="Committee Room 4" tvg-id="" group-title="IRLAND" tvg-logo="",Committee Room 4
-https://oirlive.heanet.ie/cr4/ngrp:cr4.stream_all/chunklist_b1228000.m3u8
-#EXTINF:-1  tvg-name="TG4" tvg-id="" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="IRLAND",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************ ENGLAND ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ ENGLAND ************
-http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="UK",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-name="Arise News" tvg-id="" group-title="UK" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/02/logo_arise.png",Arise News
@@ -102,11 +80,3 @@ https://a.jsrdn.com/rtmp/22690/index.m3u8
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-VINTAGEMUSICTV-001.m3u8?chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48:8081
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="UK",World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************ MALTA ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ MALTA ************
-plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
-#EXTINF:-1 tvg-name="TVM News" tvg-id="" group-title="MALTA" tvg-logo="",TVM News
-plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
-#EXTINF:-1 tvg-name="TVM 1" tvg-id="" group-title="MALTA" tvg-logo="",TVM 1
-https://live.23video.com/live/amlst:k0dasamo8b8a56rel9nfqmcpsa:16966825-2ca040dbfeea9e5cb868.mp4/playlist.m3u8?referer=https://www.tvm.com.mt/mt/tvmi/live/&uuid=efb05dca-18b5-0022-ad5d-3d31d44f1b5c
-#EXTINF:-1 tvg-name="TVM 2" tvg-id="" group-title="MALTA" tvg-logo="",TVM 2
-https://live.23video.com/live/amlst:fga9hs61tme0dq2cra5qmnp348:16973314-1185a91eaad15f019b1b.mp4/playlist.m3u8?referer=https://www.tvm.com.mt/mt/tvmi/live-tvm2/&uuid=b3d9d1da-1ca6-090f-a08e-b18be4a987ff
