@@ -21,7 +21,7 @@ https://stream.allsprk.tv/live/7/index.m3u8
 https://stream.allsprk.tv/live/8/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA;Allsprk.tv",Artur
 https://stream.allsprk.tv/live/9/index.m3u8
-#EXTINF:-1 tvg-name="*************** USA Distro TV ***********" tvg-id="" group-title="" tvg-logo="",************** USA Distro TV ***********
+#EXTINF:-1 tvg-name="USA Distro TV" tvg-id="" group-title="" tvg-logo="", USA Distro TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood TV" tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="USA;Distro TV",Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
@@ -75,7 +75,7 @@ https://a.jsrdn.com/broadcast/22719/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="World Of Free Sports TV" tvg-logo="https://i.imgur.com/oitvOug.png" group-title="USA;Distro TV",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
-#EXTINF:-1 tvg-name="************** USA MYTVTOGO *********" tvg-id="" group-title="" tvg-logo="",************** USA MYTVTOGO *********
+#EXTINF:-1 tvg-name="USA MYTVTOGO" tvg-id="" group-title="" tvg-logo="", USA MYTVTOGO
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
 #EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" group-title="USA;MYTVTOGO" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
@@ -193,7 +193,7 @@ https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e?X-Plex-Session-Identifier=84p3j5eg5qt9bpid3ytv9klj&X-Plex-Product=Plex%20Web&X-Plex-Version=4.40.1&X-Plex-Client-Identifier=c25dfriszzaey9o4c8c0qv6f&X-Plex-Platform=Firefox&X-Plex-Platform-Version=79.0&X-Plex-Sync-Version=2&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1224x308%2C1224x691&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&X-Plex-Language=de&Accept-Language=de
 #EXTINF:-1 tvg-logo="" group-title="USA;PLEX TV",ESRevolution
 https://69603b0bf51d4c7fa9335a84ee752b10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ESRevolution/playlist.m3u8?ads.wurl_channel=175&ads.wurl_name=ESRevolution&ads.us_privacy=1---&ads.psid=61e24c69-c657-5bf3-b863-7cdc122e912c&ads.targetopt=0&ads.plex_token=yd2t7_mqLeso7PyTUYZ6&ads.plex_id=5eea605574085f0040ddc77f&ads.ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A79.0%29+Gecko%2F20100101+Firefox%2F79.0&ads.app_bundle=&ads.app_store_url=&ads.gdpr=1&ads.consent=0
-#EXTINF:-1 tvg-name="************** USA REDBOX TV *********" tvg-id="" group-title="" tvg-logo="",************** USA REDBOX TV *********
+#EXTINF:-1 tvg-name="USA REDBOX TV" tvg-id="" group-title="" tvg-logo="", USA REDBOX TV
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="USA;REDBOX TV",RedBox Battery Pop
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
@@ -211,7 +211,7 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png" group-title="USA;REDBOX TV",RedBox Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="************** USA TVS TV *********" tvg-id="" group-title="" tvg-logo="",************** USA  TVS TV  *********
+#EXTINF:-1 tvg-name="USA TVS TV" tvg-id="" group-title="" tvg-logo="",USA  TVS TV
 http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA;TVS TV",TVS Classic Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
